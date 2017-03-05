@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LibTest.h"
+#include "LibTest.cpp"
 
 int main()
 {
